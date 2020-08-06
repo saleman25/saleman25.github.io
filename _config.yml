@@ -1,11 +1,11 @@
 # Site settings
-author: Samantha Aleman
-title: 
+author: Sam
+title: One Small Code for Man
 header-img: img/home-bg.png
 email: samantha.aleman25@gmail.com
-copyright_name: Samantha Aleman
+copyright_name: Sam
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Giant Leap Into My Future Career in Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  saleman25
