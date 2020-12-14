@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What would I have told myself on day one?"
-date:       2020-12-14 04:25:28 +0000
+date:       2020-12-13 23:25:29 -0500
 permalink:  what_would_i_have_told_myself_on_day_one
 ---
 
@@ -23,7 +23,7 @@ I know things can get overwhelming sometimes, and with a mix of perfectionism an
 
 Whether it be to your cohort lead(s) or to your peers. This is probably the best advice I can give someone. And not just for when you need help, but for anything. This program can be stressful and with so much else going on outside of it, it is really nice to have other people to talk to and open up to. I truly have made the best friends I can possibly ever ask for just from this program and I am so so thankful that even despite a pandemic, despite being miles away, I have found some really good people in my life.
 
-**Also just as an extra point, its never too early to start setting up your linkedin don’t leave it last minute like i did (: 
+*Also just as an extra point, its never too early to start setting up your linkedin don’t leave it last minute like i did (: *
 
 
 But regardless of my knowledge that I have right now, I have come a long way and I am a much more confident person and not just in coding but in general. Maybe it’s because I finally found my “calling in life” and I am doing something I truly enjoy, but I feel like I am a better person now. I know when to ask for help, I know when I need to give myself a break. I have an amazing support system in this program and outside of it and its directly because of this. Long story short, be easier on yourself. Ask for help, and you’ll be just fine. 
